@@ -1,3 +1,4 @@
+new before merge
 say stuff
 some`
 rebase fixed
